@@ -1,4 +1,6 @@
-JavaBeans de Usuario
+JavaBeans de Usuario.
+
+Script creación BBDD Lombo utilizada.
 
 Componente desarrollado con libreria Lombok.
 
